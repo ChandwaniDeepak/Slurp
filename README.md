@@ -19,4 +19,3 @@ Presented by
 * Naman Bhargava
 * Nitin Prince Reuben
 * Raghavi Kirouchenaradjou
-* abcd
